@@ -94,6 +94,13 @@ ul.unstyled {
 	background: url('../../images/mobile-first-design-md.jpg') top left no-repeat;
 } /*end of medium slides*/
 
+/* --------------------------------------
+   Footer
+   -------------------------------------- */
+
+footer a:hover {
+	color: #a0c5e4;
+}
 
 /* --------------------------------------
    Global Styles

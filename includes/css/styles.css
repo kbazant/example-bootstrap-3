@@ -57,6 +57,10 @@ ul.unstyled {
 	padding: 13px 15px;
 }
 
+.navbar-brand img {
+	width: 108px;
+}
+
 
 /* --------------------------------------
    Carousel
